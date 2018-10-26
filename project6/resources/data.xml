@@ -22,6 +22,9 @@
             <s enabled="true" id="22">
                 <prop id="2147483647" list="0" val="thisactor"/>
             </s>
+            <s enabled="true" id="23">
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
         </snippets>
     </actor>
     <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="32" id="53" name="Enemy Bullet" shared="false" width="32">
